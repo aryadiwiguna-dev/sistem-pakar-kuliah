@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@400;500;600;700&display=swap');
+
+
+/* Import Font Awesome */
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
